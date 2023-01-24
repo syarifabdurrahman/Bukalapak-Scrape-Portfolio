@@ -1,0 +1,67 @@
+/.vagrant
+/scrapy.iml
+*.pyc
+_trial_temp*
+dropin.cache
+docs/build
+*egg-info
+.tox
+venv
+build
+dist
+.idea
+htmlcov/
+.coverage
+.pytest_cache/
+.coverage.*
+coverage.*
+test-output.*
+.cache/
+.mypy_cache/
+/tests/keys/localhost.crt
+/tests/keys/localhost.key
+
+# python
+*.py[cod]
+/build/
+/dist/
+/*.egg-info/
+
+# twisted
+dropin.cache
+twistd.log
+twistd.pid
+_trial_temp
+
+# workspace
+/eggs/
+/logs/
+
+# development
+/.vagrant/
+/dev/
+/src/
+/dist/
+/test_urls*
+testing_scripts*
+coverage.xml
+.python-version
+
+# IDE
+/.idea/
+.vscode
+
+# tests
+.coverage
+/.tox/
+/.cache/
+
+
+# sphinx
+docs/build/*
+
+# Windows
+Thumbs.db
+
+# OSX miscellaneous
+.DS_Store
